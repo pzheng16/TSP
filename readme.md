@@ -1,3 +1,10 @@
+# TSP
+
+The Traveling Salesman Problem (TSP) arises in numerous applications such as vehicle routing,
+circuit board drilling, VLSI design, robot control, X-ray crystallography, machine scheduling and
+computational biology. In this project, you will attempt to solve the TSP using different algorithms,
+evaluating their theoretical and experimental complexities on both real and random datasets.
+
 Our program aims at solving traveling salseman problem with four different algorithms. Five python source files are included in our final product, which are:
 
 1. tsp_main.py: The user interface of our program
